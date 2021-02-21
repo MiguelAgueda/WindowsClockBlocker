@@ -1,0 +1,2 @@
+C:\Program Files\Simplify3D-4.1.2\Simplify3D.exe
+C:\Program Files\Blender Foundation\Blender 2.91\blender.exe
