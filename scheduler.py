@@ -11,7 +11,9 @@ def time_to_play():
     if day == 'Sat':
         return True
     if day == 'Sun':
-        if hour <= 21:
+        if hour < 21:
             return True
+    return False
 
-    
+if __name__ == "__main__":
+    print(time_to_play())
